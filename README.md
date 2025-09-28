@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Ярослав 
+**DevOps-стажер / Junior DevOps Engineer**
 
-<!--
-**Mazlik9/Mazlik9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Санкт-Петербург | Студент ГУАП (выпуск 2026)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии
+
+**Основные:**
+- Python, Bash, SQL
+- Django, PostgreSQL
+- Docker, Linux (Arch, Debian)
+- Git, GitLab CI/CD, Kubernetes
+
+**Изучаю:**
+- Terraform, Ansible
+- Мониторинг, оркестрация
+
+---
+
+## 🚀 Текущие проекты
+
+### [Linux System Monitor](https://github.com/Mazlik9/linux-system-monitor)
+Системный монитор на Bash с интерфейсом ncurses
+- Мониторинг CPU, памяти, дисков, процессов
+- Цветной интерфейс, кросс-дистрибутивная поддержка
+
+### [Pastebin API](https://github.com/Mazlik9/pastebin-app)
+Backend-сервис на Django с Docker
+- REST API, контейнеризация, CI/CD
+- Автоматизация сборки и тестирования
+
+---
+
+## 📫 Контакты
+
+- **Email**: yaroslav22396@gmail.com
+- **Telegram**: @Mazlly
+- **GitHub**: https://github.com/Mazlik9
+
+---
+
+> 🔍 Ищу позицию DevOps-стажера / Junior DevOps Engineer
+> 
+> 📚 Постоянно изучаю новые технологии и практики
