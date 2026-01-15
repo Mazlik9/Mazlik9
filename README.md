@@ -54,15 +54,6 @@ Backend-разработчик с фокусом на проектировани
 
 ---
 
-### [Pastebin API](https://github.com/Mazlik9/pastebin-app)
-Backend-сервис на Django
-- REST API
-- PostgreSQL
-- Docker
-- CI/CD
-
----
-
 ### [Linux System Monitor](https://github.com/Mazlik9/linux-system-monitor)
 Системный монитор на Bash с ncurses
 - Мониторинг CPU, памяти, дисков, процессов
