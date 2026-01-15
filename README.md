@@ -1,43 +1,77 @@
-# 👋 Ярослав 
-**DevOps enjoyer**
+# 👋 Ярослав  
+**Backend Developer (Python / Django)**
 
 Санкт-Петербург | Студент ГУАП (выпуск 2026)
 
 ---
 
-## 🛠️ Технологии
+## 🧩 О себе
 
-**Основные:**
-- Python, Bash, SQL
-- Django, PostgreSQL
-- Docker, Linux (Arch, Debian)
-- Git, GitLab CI/CD, Kubernetes
+Backend-разработчик с фокусом на проектирование API, бизнес-логику и архитектуру серверных приложений.  
+Работаю с Python и Django, проектирую REST API, JWT-авторизацию, ролевые модели, взаимодействие с S3-хранилищами и PostgreSQL.
 
-**Изучаю:**
-- Terraform, Ansible
-- Мониторинг, оркестрация
+Имею хороший бэкграунд в инфраструктуре и понимаю, как backend-решения работают в продакшене.
 
 ---
 
-## 🚀 Текущие проекты
+## 🛠️ Технологии
 
-### [Linux System Monitor](https://github.com/Mazlik9/linux-system-monitor)
-Системный монитор на Bash с интерфейсом ncurses
-- Мониторинг CPU, памяти, дисков, процессов
-- Цветной интерфейс, кросс-дистрибутивная поддержка
+**Backend:**
+- Python
+- Django, Django REST Framework
+- PostgreSQL
+- JWT (SimpleJWT)
+- REST API, OpenAPI / Swagger
+
+**Хранилища и интеграции:**
+- S3 / MinIO
+- Работа с файлами и медиа
+
+**Инфраструктура (рабочий уровень):**
+- Docker, Docker Compose
+- Linux
+- Git, CI/CD
+
+---
+
+## 🚀 Проекты
+
+### BuildHub — Backend платформа для сервиса объявлений и компаний  
+*(закрытый репозиторий)*
+
+Многофункциональный backend-сервис на Django REST Framework.
+
+**Реализовано:**
+- Пользовательская модель (email / phone login)
+- JWT-авторизация
+- Система акторов (пользователь / компания)
+- Профили пользователей и компаний
+- Работа с аватарами через S3 / MinIO
+- Ролевые права доступа
+- Документация API через Swagger (drf-spectacular)
+
+Проект находится в активной разработке.
+
+---
 
 ### [Pastebin API](https://github.com/Mazlik9/pastebin-app)
-Backend-сервис на Django с Docker
-- REST API, контейнеризация, CI/CD
-- Автоматизация сборки и тестирования
+Backend-сервис на Django
+- REST API
+- PostgreSQL
+- Docker
+- CI/CD
+
+---
+
+### [Linux System Monitor](https://github.com/Mazlik9/linux-system-monitor)
+Системный монитор на Bash с ncurses
+- Мониторинг CPU, памяти, дисков, процессов
+- Кросс-дистрибутивная поддержка
 
 ---
 
 ## 📫 Контакты
 
-- **Email**: yaroslav22396@gmail.com
-- **Telegram**: @Mazlly
+- **Email**: yaroslav22396@gmail.com  
+- **Telegram**: @Mazlly  
 - **GitHub**: https://github.com/Mazlik9
-
----
-
