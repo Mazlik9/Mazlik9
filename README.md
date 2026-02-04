@@ -36,8 +36,7 @@ Backend-разработчик с фокусом на проектировани
 
 ## 🚀 Проекты
 
-### BuildHub — Backend платформа для сервиса объявлений и компаний  
-*(закрытый репозиторий)*
+### [BuildHub — Backend платформа для сервиса объявлений и компаний](https://github.com/Mazlik9/buildhub-backend)
 
 Многофункциональный backend-сервис на Django REST Framework.
 
